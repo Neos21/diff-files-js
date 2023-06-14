@@ -1,0 +1,22 @@
+{
+  "name": "diff-files-js",
+  "description": "Diff Files JS",
+  "private": true,
+  "scripts": {
+    "start": "node ./diff-files.js"
+  },
+  "author": "Neo <neos21@gmail.com> (https://neos21.net/)",
+  "license": "MIT",
+  "homepage": "https://github.com/Neos21/diff-files-js#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Neos21/diff-files-js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Neos21/diff-files-js/issues"
+  },
+  "funding": {
+    "type": "github",
+    "url": "https://github.com/sponsors/Neos21"
+  }
+}
